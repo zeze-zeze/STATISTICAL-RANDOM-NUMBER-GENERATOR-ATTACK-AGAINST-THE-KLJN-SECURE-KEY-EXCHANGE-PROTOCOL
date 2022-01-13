@@ -1,5 +1,5 @@
 # Intro
-This project is an unofficial implementation of [STATISTICAL RANDOM NUMBER GENERATOR ATTACK AGAINST THE KIRCHHOFF-LAW-JOHNSON-NOISE (KLJN) SECURE KEY EXCHANGE PROTOCOL](https://arxiv.org/ftp/arxiv/papers/2110/2110.03088.pdf). Not only the four attacks against KLJN scheme were implemented, but also a CTF challenge according the attack was created. Make fun of it and issue (or PR :D) if there is any mistake.
+This project is an unofficial implementation of [STATISTICAL RANDOM NUMBER GENERATOR ATTACK AGAINST THE KIRCHHOFF-LAW-JOHNSON-NOISE (KLJN) SECURE KEY EXCHANGE PROTOCOL](https://arxiv.org/ftp/arxiv/papers/2110/2110.03088.pdf). Not only the four attacks against KLJN scheme were implemented, but also a CTF challenge according to the attack was created. Make fun of it and issue (or PR :D) if there is any mistake.
 
 The four attacks include
 * Bilateral attack demonstration utilizing cross-correlations between Alice’s/Bob’s and Eve’s wire voltages, currents and powers
